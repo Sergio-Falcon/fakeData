@@ -5,120 +5,105 @@
       "username": "climberjane",
       "firstName": "Jane",
       "lastName": "Doe",
-      "challenge": "buttress",
-      "feetClimbed": 1052
+      "height": 1052
     },
     {
       "id": 1,
       "username": "bouldererjohn",
       "firstName": "John",
       "lastName": "Doe",
-      "challenge": "buttress",
-      "feetClimbed": 1009
+      "height": 1009
     },
     {
       "id": 2,
       "username": "ilovetrad",
       "firstName": "Diego",
       "lastName": "Garcia",
-      "challenge": "buttress",
-      "feetClimbed": 892
+      "height": 892
     },
     {
       "id": 3,
       "username": "crackclimber",
       "firstName": "Henry",
       "lastName": "Davis",
-      "challenge": "buttress",
-      "feetClimbed": 745
+      "height": 745
     },
     {
       "id": 4,
       "username": "monos4life",
       "firstName": "Thanh",
       "lastName": "Ha",
-      "challenge": "buttress",
-      "feetClimbed": 701
+      "height": 701
     },
     {
       "id": 5,
       "username": "josechmoe89",
       "firstName": "Jose",
       "lastName": "Rodriguez",
-      "challenge": "buttress",
-      "feetClimbed": 675
+      "height": 675
     },
     {
       "id": 6,
       "username": "pinches&crimps",
       "firstName": "Sergio",
       "lastName": "buttress",
-      "challenge": "buttress",
-      "feetClimbed": 623
+      "height": 623
     },
     {
       "id": 7,
       "username": "bigcrimpin",
       "firstName": "Jesse",
       "lastName": "Bruno",
-      "challenge": "buttress",
-      "feetClimbed": 445
+      "height": 445
     },
     {
       "id": 8,
       "username": "johndoe23",
       "firstName": "John",
       "lastName": "buttress",
-      "challenge": "buttress",
-      "feetClimbed": 228
+      "height": 228
     },
     {
       "id": 9,
       "username": "johndoe45",
       "firstName": "John",
       "lastName": "Hancock",
-      "challenge": "buttress",
-      "feetClimbed": 48
+      "height": 48
     },
     {
       "id": 10,
       "username": "juststartingout",
       "firstName": "Justin",
       "lastName": "Case",
-      "challenge": "buttress",
-      "feetClimbed": 36
+      "height": 36
     },
     {
       "id": 11,
       "username": "climbingisfun",
       "firstName": "Nestor",
       "lastName": "Falcon",
-      "challenge": "buttress",
-      "feetClimbed": 12
+      "height": 12
     },
     {
       "id": 12,
       "username": "hiker",
       "firstName": "Amber",
       "lastName": "Stone",
-      "challenge": "buttress",
-      "feetClimbed": 2
+      "height": 2
     },
     {
       "id": 13,
       "username": "climber183",
       "firstName": "Mark",
       "lastName": "Stone",
-      "challenge": "buttress",
-      "feetClimbed": 2241
+      "height": 2241
     },
     {
       "id": 14,
       "username": "GetIt",
       "firstName": "Daniel",
       "lastName": "Forest",
-      "challenge": "buttress",
-      "feetClimbed": 3219
+      "height": 3219
     }
   ]
 }
