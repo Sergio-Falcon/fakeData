@@ -104,6 +104,48 @@
       "firstName": "Daniel",
       "lastName": "Forest",
       "height": 3219
+    },
+    {
+      "id": 15,
+      "username": "Climbinnn",
+      "firstName": "Dan",
+      "lastName": "Cool",
+      "height": 2346
+    },
+    {
+      "id": 16,
+      "username": "Origin",
+      "firstName": "Magnus",
+      "lastName": "Smith",
+      "height": 2954
+    },
+    {
+      "id": 17,
+      "username": "Bester",
+      "firstName": "Bester",
+      "lastName": "Lock",
+      "height": 3018
+    },
+    {
+      "id": 18,
+      "username": "Damnnn",
+      "firstName": "Best",
+      "lastName": "Won",
+      "height": 4024
+    },
+    {
+      "id": 19,
+      "username": "Doltin",
+      "firstName": "Dede",
+      "lastName": "Desert",
+      "height": 1894
+    },
+    {
+      "id": 20,
+      "username": "Traddin",
+      "firstName": "Paddle",
+      "lastName": "Sowd",
+      "height": 3590
     }
   ]
 }
